@@ -54,6 +54,8 @@
       <div class="periodical">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
+      {% elsif entry.type == "phdthesis" %}
+        {{entry.journal}}
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
