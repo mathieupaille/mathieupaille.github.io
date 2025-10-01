@@ -2,7 +2,7 @@
 layout: about
 title: Mathieu Paillé
 permalink: /
-description: University of Calgary
+description: Leibniz-Zentrum Allgemeine Sprachwissenschaft
 
 profile:
   align: right
@@ -12,13 +12,14 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
+I'm a postdoctoral researcher in linguistics and <a href="https://banting.fellowships-bourses.gc.ca/en/2024-2025-eng.html">Banting fellow</a> at <a href="https://www.leibniz-zas.de/en/">ZAS</a>. I work on semantics and pragmatics.
 
-I'm a postdoctoral researcher in linguistics at the University of Calgary. I completed my PhD in 2022 as a <a href="https://vanier.gc.ca/en/home-accueil.html">Vanier scholar</a> at McGill University. This fall, I will be starting a postdoctoral research position at <a href="https://www.leibniz-zas.de/en/">ZAS</a>.
+Most of my work focuses on exhaustification, predicate meanings, and the relation between language and thought. I'm particularly interested in using the tools of formal semantics to learn more about conceptual representations and other aspects of cognition. For example, in <a href="http://localhost:4000/assets/pdf/Paille-2025-LP.pdf">a 2025 <i>Linguistics & Philosophy</i> paper</a>, I show that in most sentences, there are systematic mismatches between the intuited and underlying meanings of conceptual vocabulary like nouns and adjectives.
 
-In <a href="https://lingbuzz.net/lingbuzz/006765">my dissertation</a>, I show that the meaning of predicates as intuited in sentences is stronger than their lexical-conceptual meaning, and that the way this strengthening occurs has some special properties. In discussing the semantics of predication and strengthening, I also touch on the topics of additive particles, conjunction, and homogeneity.
+Previously, I was at the University of Calgary as a postdoctoral researcher, and at McGill as a Vanier scholar, where I defended <a href="https://lingbuzz.net/lingbuzz/006765">my thesis</a> in 2022.
 
-In my spare time I enjoy studying languages, social movement organising, and time outdoors. I'm a native French speaker from a <a href = "https://en.wikipedia.org/wiki/Franco-Manitoban">minority community</a> in <a href="https://en.wikipedia.org/wiki/Winnipeg">Winnipeg</a>. 
+In my spare time I enjoy studying languages, social movement organising, and time outdoors. I'm a native French speaker from a <a href = "https://en.wikipedia.org/wiki/Franco-Manitoban">minority community</a> in <a href="https://en.wikipedia.org/wiki/Winnipeg">Winnipeg</a>, Canada. 
 
 Get in touch! mathieu.paille (at) mail.mcgill.ca.
